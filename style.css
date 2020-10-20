@@ -1,0 +1,57 @@
+h1 {
+    color: white; 
+    font-family: "Arial", arial; 
+    font-size: 40px;
+
+}
+h2 {
+  color: white; 
+  font-family: "Arial", arial; 
+  font-size: 30px;
+
+}
+h6 {
+  color: black; 
+  font-family: "Arial", arial; 
+  font-size: 12px;
+
+}
+h3{
+  color: black; 
+  font-family: "Arial", arial; 
+  font-size: 20px;
+  font-weight: bold;
+}
+h4{
+  color: red; 
+  font-family: "Arial", arial; 
+  font-size: 12px;
+}
+h5{
+  color: black; 
+  font-family: "Arial", arial; 
+  font-size: 15px;
+  font-weight: bold;
+}
+h7{
+  color: black; 
+  font-family: "Arial", arial; 
+  font-size: 15px;
+  font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.7px;
+  }
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
